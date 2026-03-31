@@ -1,4 +1,4 @@
-# Fieldset — Kanban Task Board
+# Kanban Task Board
 
 A full-stack Kanban board built for the Next Play Games SDE internship assessment.
 
