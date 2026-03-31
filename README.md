@@ -2,14 +2,12 @@
 
 A full-stack Kanban board built for the Next Play Games SDE internship assessment.
 
-**Live demo:** [your-vercel-url-here]
 
 ## Stack
 
 - React 18 + TypeScript + Vite
 - Supabase (PostgreSQL + anonymous auth + RLS)
 - @dnd-kit for drag-and-drop
-- Deployed on Vercel
 
 ## Features
 
@@ -40,5 +38,3 @@ You'll also need to run the SQL schema in your Supabase project (see `schema.sql
 VITE_SUPABASE_URL=https://your-project.supabase.co
 VITE_SUPABASE_ANON_KEY=your-anon-key
 ```
-
-Never commit your `.env` file. Only the public anon key should be used in the frontend.
