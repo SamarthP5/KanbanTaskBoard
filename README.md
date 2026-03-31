@@ -1,6 +1,6 @@
 # Kanban Task Board
 
-A full-stack Kanban board built for the Next Play Games SDE internship assessment.
+A full-stack Kanban board built for managing tasks
 
 
 ## Stack
